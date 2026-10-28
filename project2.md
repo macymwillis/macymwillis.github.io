@@ -6,7 +6,7 @@ CIS Security Compliance Checker
 -   **Class: CSCI 301 Survey of Scripting Languages** 
 -   **Grade: 100%** 
 -   **Language(s): PowerShell** 
--   **Source Code Repository:** [csci332-personal-website](https://github.com/macymwillis/csci301-compliance-checker)  
+-   **Source Code Repository:** [csci301-compliance-checker](https://github.com/macymwillis/csci301-compliance-checker)  
     (Please [email me](mailto:MMWillis@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
