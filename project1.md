@@ -42,7 +42,8 @@ Fig 3. The Home Video page.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project helped me gain practical experience creating and publishing a multi-page website. I learned how to organize HTML files, link pages together, include images and multimedia, and use Apache to host and test a website locally. 
+One challenge was ensuring that the website's navigation links and media files worked correctly. Organizing the files into the appropriate folders helped keep the website structured and functional.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
