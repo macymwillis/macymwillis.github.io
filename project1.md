@@ -1,28 +1,31 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Personal Multi-Page Website
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 332- Applied Networking** 
+-   **Grade: Pending** 
+-   **Language(s): HTML** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:MMWillis@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project involved developing and publishing a personal multi-page website using HTML for CSCI 332 Applied Networking. The website includes a homepage with personal information, background music, and navigation links to additional pages. Additional features include a family page, a photo gallery with clickable image thumbnails, a video page, and links to previous lab assignments. The website was published using Apache and tested locally to verify that navigation, images, audio, and video worked correctly. This project provided hands-on experience integration, web server publishing, and testing website functionality. 
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+## How to Run the Project
+This project does not require compilation because it was created using HTML.
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+To run the website:
+1. Open the Ubuntu virtual machine.
+2. Start the Apache web server.
+3. Open a web browser.
+4. Enter http://localhost in the address bar.
+5. Use the navigation menu to visit the different pages.
+   
+The website uses HTML files and supporting media files, including images, audio, and video. Keep these files in their appropriate folder for the website to function correctly.
 
 ## UI Design
 
