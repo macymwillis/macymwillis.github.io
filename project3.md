@@ -44,11 +44,11 @@ The database structure is defined through SQL statements that specify table name
 data types, primary keys, and foreign keys. These definitions establish how information is 
 organized and how related records connect across tables.
 
-![screenshot](images/ps1Script.png)  
-Fig 1. PowerShell Code.
+![screenshot](images/SQLscript.png)  
+Fig 1. Shows the SQL script of CREATE TABLE statements.
 
-![screenshot](images/ps1Check.png)  
-Fig 2. Programming Running in PowerShell.
+![screenshot](images/SQLtable.png)  
+Fig 2. Showing results.
 
 ## 3. Additional Considerations
 
