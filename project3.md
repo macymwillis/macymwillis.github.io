@@ -6,7 +6,7 @@ Beta University Database Table Design
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: 100%** 
 -   **Language(s): SQL** 
--   **Source Code Repository:** [csci301-compliance-checker](https://github.com/macymwillis/csci301-compliance-checker)  
+-   **Source Code Repository:** [csci419-beta-university-database](https://github.com/macymwillis/csci419-beta-university-database)  
     (Please [email me](mailto:MMWillis@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
