@@ -6,7 +6,7 @@ Personal Multi-Page Website
 -   **Class: CSCI 332- Applied Networking** 
 -   **Grade: Pending** 
 -   **Language(s): HTML** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/macymwillis/csci332-personal-website)  
+-   **Source Code Repository:** [csci332-personal-website](https://github.com/macymwillis/csci332-personal-website)  
     (Please [email me](mailto:MMWillis@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
