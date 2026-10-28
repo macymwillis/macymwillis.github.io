@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:MMWillis@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Personal Multi-Page Website | CSCI 332](project1)
+### [Personal Multi-Page Website | CSCI 332](project1.md)
 
 ![Project 1 Thumbnail Name](images/Homepage.png)
 
 ---
-### [CIS Security Compliance Checker | CSCI 301](project2)
+### [CIS Security Compliance Checker | CSCI 301](project2.md)
 
 ![Project 2 Thumbnail Name](images/ps1Check.png)
 
