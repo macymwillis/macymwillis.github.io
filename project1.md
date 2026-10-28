@@ -31,14 +31,14 @@ The website uses a multi-page layout to organize personal information and multim
 The homepage displays a personal introduction and picture, along with background music. The photo gallery presents images as clickable thumbnails, allowing visitors to open the full-size pictures. A separate video included with the website files. 
 The website was organized using HTML files and separate folders for its pages and media resources. It was published through Apache and tested locally to check that the navigation links, images, audio, and video function correctly. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Homepage.png)  
+Fig 1. The Homepage of The Website.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Gallery.png)  
+Fig 2. The Photo Gallery Page.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Video.png)  
+Fig 3. The Home Video page.
 
 ## 3. Additional Considerations
 
