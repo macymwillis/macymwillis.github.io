@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/ps1Check.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Beta University Database Table Design | CSCI 419](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/SQLscript.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
