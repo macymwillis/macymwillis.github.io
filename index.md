@@ -24,7 +24,7 @@ Ethics Papers
 ### [Ethics of AI](/pdf/ethics-of-ai.pdf)
 
 -   **Class: CSCI 301 - Survey of Scripting Languages**  
--   **Grade: 90%**
+-   **Grade: 90% **
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
