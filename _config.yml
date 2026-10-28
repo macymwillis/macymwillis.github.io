@@ -10,7 +10,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   growth throughout my computer science education. 
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
-  <br /><br />
+  <br />
 repository: "csci-csu/csci-portfolio"
 github_username:  macymwillis # update with your username
 
