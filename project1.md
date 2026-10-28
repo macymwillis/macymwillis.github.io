@@ -13,8 +13,6 @@ Personal Multi-Page Website
 
 This project involved developing and publishing a personal multi-page website using HTML for CSCI 332 Applied Networking. The website includes a homepage with personal information, background music, and navigation links to additional pages. Additional features include a family page, a photo gallery with clickable image thumbnails, a video page, and links to previous lab assignments. The website was published using Apache and tested locally to verify that navigation, images, audio, and video worked correctly. This project provided hands-on experience integration, web server publishing, and testing website functionality. 
 
-## How to compile and run the program
-
 ## How to Run the Project
 This project does not require compilation because it was created using HTML.
 
