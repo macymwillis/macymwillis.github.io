@@ -27,9 +27,9 @@ The website uses HTML files and supporting media files, including images, audio,
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The website uses a multi-page layout to organize personal information and multimedia content. A navigation menu allows visitors to move between the homepage, family page, photo gallery, video page, and individual lab assignment pages. 
+The homepage displays a personal introduction and picture, along with background music. The photo gallery presents images as clickable thumbnails, allowing visitors to open the full-size pictures. A separate video included with the website files. 
+The website was organized using HTML files and separate folders for its pages and media resources. It was published through Apache and tested locally to check that the navigation links, images, audio, and video function correctly. 
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
