@@ -52,10 +52,10 @@ Fig 2. Showing results.
 
 ## 3. Additional Considerations
 
-This project helped me learn how to inspect Windows security configurations through scripting and 
-understand how security policies support workstation standards in a corporate environment. I also 
-learned that different security settings may require different PowerShell commands or methods to 
-retrieve their values.
-
+This project focuses on designing and creating relational database tables for the Beta University 
+Annual Fund system using SQL. It demonstrates the use of CREATE TABLE statements, primary keys,
+foreign keys, and relationships between tables. The project emphasizes organizing data properly 
+and maintaining accurate relationships between tables. It also provides experience writing SQL
+code, documenting database structures, and using GitHub to manage and showcase project work.
 
 [Back to Portfolio](./)
