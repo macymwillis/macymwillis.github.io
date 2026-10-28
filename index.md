@@ -17,16 +17,6 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/ps1Check.png)
 
 ---
-### [Beta University Database Table Design | CSCI 419](project3.md)
-
-![Project 3 Thumbnail Name](images/SQLscript.png)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 
 Ethics Papers
 -------------
@@ -35,34 +25,10 @@ Ethics Papers
 
 -   **Class:**  
 -   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
 ---
 
 Presentations
 -------------
-
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
----
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
