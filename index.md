@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Homepage.png)
 
 ---
-### [CIS Security Compliance Checker | CSCI 301](project1)
+### [CIS Security Compliance Checker | CSCI 301](project2)
 
 ![Project 2 Thumbnail Name](images/ps1Check.png)
 
