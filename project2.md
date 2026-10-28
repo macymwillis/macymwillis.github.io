@@ -45,14 +45,11 @@ the setting being evaluated.
 The results are organized by security rule, making it easier to identify which settings meet the selected 
 requirements. A completion message appears after all five checks have run.
 
-![screenshot](images/Homepage.png)  
-Fig 1. The Homepage of The Website.
+![screenshot](images/ps1Script.png)  
+Fig 1. PowerShell Code.
 
-![screenshot](images/Gallery.png)  
-Fig 2. The Photo Gallery Page.
-
-![screenshot](images/Video.png)  
-Fig 3. The Home Video page.
+![screenshot](images/ps1Check.png)  
+Fig 2. Programming Running in PowerShell.
 
 ## 3. Additional Considerations
 
