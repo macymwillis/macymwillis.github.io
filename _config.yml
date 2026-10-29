@@ -9,7 +9,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   This portfolio showcases my academic projects, technical skills, and growth throughout
   my computer science education. 
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="/pdf/resume.pdf">View My Resume</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  macymwillis # update with your username
 
